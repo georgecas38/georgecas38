@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jorge 
 - 👀 I’m interested in Qunatitative Finance
 - 🌱 I’m currently learning how to build an optimized finance portfolio using Python
-- 💞️ I’m looking to collaborate on how to create a mobile App
+- 💞️ I’m looking to collaborate with FinTech and Crypto projects
 - 📫 How to reach me jrc329@georgetown.edu
 
 <!---
